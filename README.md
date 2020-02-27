@@ -9,7 +9,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 |Name     |  Github Page   |  Personal Website  |
 |---------|-----------------|--------------------|
 |Misha Berrien | [mishaberrien](https://github.com/mishaberrien)| [www.mishaberrien.com](https://mishaberrien.com/)  |
-
+|[Medium Tutorial](https://medium.com/swlh/how-to-structure-a-python-based-data-science-project-a-short-tutorial-for-beginners-7e00bff14f56)|
 ### Methods Used
 * Inferential Statistics
 * Machine Learning
